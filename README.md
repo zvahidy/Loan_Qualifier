@@ -27,7 +27,7 @@ Another installation requirement for this project included Questionary.
 ---
 
 ## Results
-C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\data_daily_rate_sheet_csv_file
+[C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\data_daily_rate_sheet_csv_file](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/f9ca07764faf7ca1ae9debe2091a156bec0c5910/Fintech-module-02/Challenge_2/Screenshots/filter_credit_score.png)
 This portion of the data indicates the parameters used to create and test the loan qualifier
 C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\filter_credit_score
 This is a reference of code containing an essential parameter during the qualifing process pertaining to credit scoring. 
