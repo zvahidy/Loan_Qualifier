@@ -32,7 +32,8 @@ This portion of the data indicates the parameters used to create and test the lo
 ![C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\filter_credit_score](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/b0fd34e9ea1720163bc43ba0813452847aec8468/Fintech-module-02/Challenge_2/Screenshots/filter_credit_score.png)
 This is a reference of code containing an essential parameter during the qualifing process pertaining to credit scoring. 
 
-Factors to determin loan qualification in this project are credit score, debt to income, loan to value and the max loan size the banks are willing to lend to. 
+Factors to determin loan qualification in this project are credit score, debt to income, loan to value and the max loan size the banks are willing to lend to. The users was provided with the ability to save list of qualifying loans based on data entered.
+
 
 ---
 
