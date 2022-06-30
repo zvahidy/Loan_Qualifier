@@ -19,17 +19,17 @@ This project was a great opportunity to showcase my software engineering skills.
 ---
 
 ## Installation Guide
-[C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\pip_fire](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/b0fd34e9ea1720163bc43ba0813452847aec8468/Fintech-module-02/Challenge_2/Screenshots/pip_fire.png)
+![C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\pip_fire](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/b0fd34e9ea1720163bc43ba0813452847aec8468/Fintech-module-02/Challenge_2/Screenshots/pip_fire.png)
 Installation requirements for this project included Fire 
-[C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\pip_questionary](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/b0fd34e9ea1720163bc43ba0813452847aec8468/Fintech-module-02/Challenge_2/Screenshots/pip_questionary.png)
+![C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\pip_questionary](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/b0fd34e9ea1720163bc43ba0813452847aec8468/Fintech-module-02/Challenge_2/Screenshots/pip_questionary.png)
 Another installation requirement for this project included Questionary. 
 
 ---
 
 ## Results
-[C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\data_daily_rate_sheet_csv_file](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/f9ca07764faf7ca1ae9debe2091a156bec0c5910/Fintech-module-02/Challenge_2/Screenshots/filter_credit_score.png)
+![C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\data_daily_rate_sheet_csv_file](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/f9ca07764faf7ca1ae9debe2091a156bec0c5910/Fintech-module-02/Challenge_2/Screenshots/filter_credit_score.png)
 This portion of the data indicates the parameters used to create and test the loan qualifier
-[C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\filter_credit_score](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/b0fd34e9ea1720163bc43ba0813452847aec8468/Fintech-module-02/Challenge_2/Screenshots/filter_credit_score.png)
+![C:\Users\zvahi\src\fintech\Fintech-module-02\Challenge_2\Screenshots\filter_credit_score](https://raw.githubusercontent.com/zvahidy/Loan_Qualifier/b0fd34e9ea1720163bc43ba0813452847aec8468/Fintech-module-02/Challenge_2/Screenshots/filter_credit_score.png)
 This is a reference of code containing an essential parameter during the qualifing process pertaining to credit scoring. 
 
 Factors to determin loan qualification in this project are credit score, debt to income, loan to value and the max loan size the banks are willing to lend to. 
