@@ -1,0 +1,20 @@
+    1  conda init
+    2  exit
+    3  c:/Users/zvahi/Downloads/Starter_Code/Starter_Code/loan_qualifier_app/app.py
+    4  conda activate 
+    5  conda activate dev
+    6  pip install fire
+    7  pip install questionary
+    8  ls
+    9  cd loan_qualifier_app/
+   10  python app.py 
+   11  python app.py 
+   12  c:/Users/zvahi/Downloads/Starter_Code/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+   13  python app.py 
+   14  python app.py 
+   15  git config --zvahidy
+   16  git config --user.name Zehra Vahidy
+   17  git config --user.name <Zehra Vahidy>
+   18  git puh
+   19  git push
+   20  history 50 > terminal_history.txt
